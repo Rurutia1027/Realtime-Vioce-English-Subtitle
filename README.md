@@ -2,6 +2,10 @@
 
 A lightweight local tool for real-time English speech captions in a floating, always-on-top window.
 
+
+https://github.com/user-attachments/assets/2cc446d5-a496-49e8-a9f3-01f7f252d6af
+
+
 ## Why I built this
 
 For non-native speakers, pronunciation practice often means:
